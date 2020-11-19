@@ -1,0 +1,10 @@
+﻿HASH(32) IV(16) SALT(32)
+// INDEX
+<INDEX SIZE (4)> <DIRECTORY? (1)> <ID (10)> <PARENT ID (10)> <FILE SIZE (16)> <SECTOR START(10)> <REL. PATH> 
+
+oooo o oooooooooo oooooooooo
+     0 1234567890 1234567890
+
+// INDICES
+<INDICES SIZE (15)> cont line 
+<indices[]>
