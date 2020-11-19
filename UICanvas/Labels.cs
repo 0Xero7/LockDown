@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LockDown.UICanvas
+namespace lockdown.UICanvas
 {
     public static class Labels
     {

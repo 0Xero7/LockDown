@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace LockDown
+namespace lockdown
 {
     public static class IOManager
     {

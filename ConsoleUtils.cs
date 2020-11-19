@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LockDown
+namespace lockdown
 {
     public static class ConsoleUtils
     {

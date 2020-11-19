@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace LockDown
+namespace lockdown
 {
     // <INDEX SIZE(4)> <DIRECTORY? (1)> <ID(10)> <PARENT ID(10)> <FILE SIZE(16)> <REL.PATH>
     public class IndexedItem

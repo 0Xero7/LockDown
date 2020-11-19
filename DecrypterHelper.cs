@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace LockDown
+namespace lockdown
 {
     public class DecrypterHelper
     {

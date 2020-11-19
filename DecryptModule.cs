@@ -4,7 +4,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LockDown
+namespace lockdown
 {
     public class DecryptModule
     {
